@@ -1,0 +1,17 @@
+{
+    "name":"oyjz/api3",
+    "description":"Dao begets One, One begets Two, Two begets Three, Three begets all things.",
+    "type":"library",
+    "license":"MIT",
+    "minimum-stability":"dev",
+    "autoload":{
+        "psr-4":{
+            "api\\":"src"
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0.x-dev"
+        }
+    }
+}
